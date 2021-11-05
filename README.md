@@ -11,7 +11,8 @@ This is the repository for Assignment 2 for IAML 2021.
  * `data`: This is the directory (folder) which contains the datasets.
  * `templates`: This is the directory (folder) which contains Python template files you should use.
  * `helpers`: This is the directory (folder) which contains a Python helper function file.
- * _**Note that you will need to copy the templates and helper function file to your current work directory so that your Python/Notebook environment recognises them.**_
+ 
+ _**Note that you will need to copy the templates and helper function files to your current work directory so that your Python/Notebook recognises them.**_
 
 ## A note on working with GIT
  
