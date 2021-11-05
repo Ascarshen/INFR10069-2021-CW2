@@ -11,6 +11,7 @@ This is the repository for Assignment 2 for IAML 2021.
  * `data`: This is the directory (folder) which contains the datasets.
  * `templates`: This is the directory (folder) which contains Python template files you should use.
  * `helpers`: This is the directory (folder) which contains a Python helper function file.
+ * _**Note that you will need to copy the templates and helper function file to your current work directory so that your Python/Notebook environment recognises them.**_
 
 ## A note on working with GIT
  
@@ -20,6 +21,10 @@ This is the repository for Assignment 2 for IAML 2021.
 
 For this assignment you **must** use the same versions of the packages that are specified in the [IAML Labs repository](https://github.com/uoe-iaml/iaml-labs). 
 Failing to do will result in you loosing points. 
+
+## FAQs and Updates
+
+Please visit the **Assesment 2 FAQs** section in the Learn course page frequently for any updates and FAQs.
 
 ## Building the PDF
 
