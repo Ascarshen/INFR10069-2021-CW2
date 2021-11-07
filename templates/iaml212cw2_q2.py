@@ -27,20 +27,10 @@ def iaml212cw2_q2_1():
 #
 # iaml212cw2_q2_1()   # comment this out when you run the function
 
-# Q2.2
-def iaml212cw2_q2_2():
-#
-# iaml212cw2_q2_2()   # comment this out when you run the function
-
 # Q2.3
 def iaml212cw2_q2_3():
 #
 # iaml212cw2_q2_3()   # comment this out when you run the function
-
-# Q2.4
-def iaml212cw2_q2_4():
-#
-# iaml212cw2_q2_4()   # comment this out when you run the function
 
 # Q2.5
 def iaml212cw2_q2_5():
@@ -61,9 +51,3 @@ def iaml212cw2_q2_7():
 def iaml212cw2_q2_8():
 #
 # iaml212cw2_q2_8()   # comment this out when you run the function
-
-# Q2.9 
-def iaml212cw2_q2_9():
-#
-# iaml212cw2_q2_9()   # comment this out when you run the function
-
